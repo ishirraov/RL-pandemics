@@ -48,7 +48,13 @@ Ensure you have Python installed along with the following dependencies:
 * `matplotlib`
 * `pandas`
 
+### Installation & Execution
+
+1. Clone the Repository
+2. Run the simulation: python project_code.py
+3. Adjust the simulation parameters and reward function!
+
 ### Citation
 If you use this research or code in your work, please cite the original article:
 
-Rao, et. al. (2023). Modeling and Optimization of Epidemiological Control Policies through Reinforcement Learning. Journal of Emerging Investigators.
+Rao et al. (2023). Modeling and Optimization of Epidemiological Control Policies through Reinforcement Learning. Journal of Emerging Investigators.
